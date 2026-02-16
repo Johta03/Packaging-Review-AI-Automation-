@@ -1,0 +1,2 @@
+Legal says remove "non-toxic" and "BPA-free" from claims until we have test reports.
+Packaging confirms material is PET (not PVC). Update materials accordingly.
